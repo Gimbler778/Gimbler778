@@ -1,5 +1,5 @@
 # Hey, I am Aditya Singh Kushwaha! <br>
-<img src="https://giphy.com/gifs/funny-gif-despicable-me-minions-J4mwzGaDrRw3u"> <br>
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif"> <br>
 
 - 🧑🏻‍💼 I'm a Computer Science bachelour aspiring to learn more about Web-Dev and Dev-Ops.
 - 🌱 I’m currently learning Front and Back End Web Development!
