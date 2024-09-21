@@ -39,8 +39,9 @@
 </a> 
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg">
-</a> 
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/frameworks/react.svg">
+</a>
+
 
 <br>
 <br>
