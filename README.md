@@ -1,7 +1,7 @@
 # Hey, I am Aditya Singh Kushwaha! <br>
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Good Work">
+<img src="https://www.icegif.com/welcome-103/" alt="WELCOME">
 
-- 🧑🏻‍💼 I'm a Computer Science bachelour 
+- 🧑🏻‍💼 I'm a Computer Science bachelour aspiring to learn more about Web-Dev and Dev-Ops.
 - 🌱 I’m currently learning Front and Back End Web Development!
 - 👯 I like learning about various languages and developer tools.
 - ⚡ Fun fact: I love Gaming , PvP shooters are my favorite category!
