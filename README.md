@@ -28,7 +28,7 @@
 </a> 
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/sql.svg">
+    <img src="https://img.icons8.com/color/48/000000/sql.png">
 </a> 
 
 <br>
@@ -56,17 +56,9 @@
 </a> 
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg">
-</a> 
-<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
 </a> 
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg">
-</a> 
-<a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg">
-</a> 
+ 
 
 <br>
 <br>
