@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="400" alt="coding banner" />
+<img src="https://media.giphy.com/media/EbHhc2HGM0j1cLDyYb/giphy.gif" width="500" alt="Spider-Man web slinging" />
 
 </div>
 
@@ -18,11 +18,11 @@
 
 ## 🕸️ The Origin Story
 
-- 🧑🏼‍💼 Computer Science undergrad at **Adani University**, swinging between Frontend & Backend
-- 🤝 **Full-Stack Developer intern @ Adani Foundation** — built *SitePulse*, a CSR infrastructure-monitoring platform
-- 🌱 Currently climbing the **Web Dev & DevOps** web. One bug at a time!
-- 🎯 Always exploring new languages, frameworks, and developer tools
-- ⚡ Fun fact: I love gaming — *PvP shooters* are my favorite category!
+- Computer Science undergrad at **Adani University**, swinging between Frontend & Backend
+- **Full-Stack Developer intern @ Adani Foundation** — built *SitePulse*, a CSR infrastructure-monitoring platform
+- Currently climbing the **Web Dev & DevOps** web. One bug at a time!
+- Always exploring new languages, frameworks, and developer tools
+- Fun fact: I love gaming — *PvP shooters* are my favorite category!
 
 <br>
 
@@ -30,41 +30,19 @@
 
 ### 🧬 Programming Languages
 
-<img src="https://img.shields.io/badge/Python-B11313?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-171A1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-1B3F8F?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-E62429?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/HTML5-B11313?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1B3F8F?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/SQL-171A1C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-B11313?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-171A1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-1B3F8F?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-E62429?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/HTML5-B11313?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1B3F8F?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/SQL-171A1C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 
 ### 🖥️ Frameworks & Libraries
 
-<img src="https://img.shields.io/badge/React-171A1C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-171A1C?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-1B3F8F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-E62429?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-1B3F8F?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/React-171A1C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-171A1C?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-1B3F8F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FastAPI-E62429?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-1B3F8F?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
 ### 🤖 AI & ML
 
-<img src="https://img.shields.io/badge/PyTorch-E62429?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Transformers-B11313?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Transformers" />
-<img src="https://img.shields.io/badge/Scikit--learn-1B3F8F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/LLMs-171A1C?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs (Vercel AI, Workers AI, Groq)" />
+<img src="https://img.shields.io/badge/PyTorch-E62429?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Transformers-B11313?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Transformers" /> <img src="https://img.shields.io/badge/Scikit--learn-1B3F8F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/LLMs-171A1C?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs (Vercel AI, Workers AI, Groq)" />
 
 ### 🧰 Tools & Platforms
 
-<img src="https://img.shields.io/badge/Git-E62429?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-171A1C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-1B3F8F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/PostgreSQL-1B3F8F?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Neon-B11313?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" />
-<img src="https://img.shields.io/badge/Supabase-171A1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-<img src="https://img.shields.io/badge/Prisma-1B3F8F?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/Drizzle%20ORM-171A1C?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle ORM" />
-<img src="https://img.shields.io/badge/VS%20Code-B11313?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+<img src="https://img.shields.io/badge/Git-E62429?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-171A1C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Docker-1B3F8F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/PostgreSQL-1B3F8F?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Neon-B11313?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" /> <img src="https://img.shields.io/badge/Supabase-171A1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" /> <img src="https://img.shields.io/badge/Prisma-1B3F8F?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Drizzle%20ORM-171A1C?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle ORM" /> <img src="https://img.shields.io/badge/VS%20Code-B11313?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
 
 <br>
 
