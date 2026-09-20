@@ -1,94 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:E62429,100:1B3F8F&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=FRIENDLY%20NEIGHBORHOOD%20DEVELOPER&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Building%20useful%20things%20for%20the%20web&descAlignY=60&descSize=16&color=0:0b1020,45:162a59,75:b3122d,100:e62429" width="100%" alt="Spider-Man themed header" />
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
-    <td align="right" valign="middle">
-      <img src="images.jpg" width="220" alt="Spider-Man" />
+    <td width="22%" valign="middle" align="center">
+      <img src="images.jpg" width="180" alt="Spider-Man hanging upside down" />
     </td>
-    <td align="center" valign="middle">
+    <td width="56%" valign="middle" align="center">
       <h1>🕷️ Aditya Singh Kushwaha</h1>
-      <b>Friendly Neighborhood Developer</b>
-      <br><br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=520&lines=Building+for+the+web+%E2%9A%A1;Frontend+%2B+Backend+Explorer;DevOps+%26+Cloud+in+the+making;Let's+connect!+%F0%9F%95%B8" alt="Typing SVG" />
+      <p><strong>Full-Stack Developer · AI/ML Explorer · DevOps in the making</strong></p>
+      <p>Turning ideas into web experiences, one web-sling at a time.</p>
+      <p>
+        <a href="https://github.com/Gimbler778">GitHub</a> ·
+        <a href="https://www.linkedin.com/in/aditya-kushwaha-886283289/">LinkedIn</a> ·
+        <a href="mailto:adityask0405@gmail.com">Email me</a>
+      </p>
     </td>
-    <td align="left" valign="middle">
-      <img src="images1.jpg" width="160" alt="Spider-Man" />
+    <td width="22%" valign="middle" align="center">
+      <img src="images1.jpg" width="150" alt="Spider-Man in a black suit" />
     </td>
   </tr>
 </table>
 
-<br>
-
-<img src="https://media.giphy.com/media/EbHhc2HGM0j1cLDyYb/giphy.gif" width="420" alt="Spider-Man web slinging" />
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-E62429?style=for-the-badge&labelColor=10141d" alt="Status online" />
+  <img src="https://img.shields.io/badge/LOCATION-AHMEDABAD-1B3F8F?style=for-the-badge&labelColor=10141d" alt="Location Ahmedabad" />
+  <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATE-ffffff?style=for-the-badge&labelColor=10141d" alt="Open to collaborate" />
+</p>
 
 </div>
 
-<br>
+<hr>
 
-> **"With great power comes great responsibility."** — and also great code. 🕷️
+## 🕸️ Issue #01 · The Origin Story
 
-## 🕸️ The Origin Story
+> “With great power comes great responsibility.” — and also great code.
 
-- Computer Science undergrad at **Adani University**, swinging between Frontend & Backend
-- **Full-Stack Developer intern @ Adani Foundation** — built *SitePulse*, a CSR infrastructure-monitoring platform
-- Currently climbing the **Web Dev & DevOps** web. One bug at a time!
-- Always exploring new languages, frameworks, and developer tools
-- Fun fact: I love gaming — *PvP shooters* are my favorite category!
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Who is behind the mask?</h3>
+      <p>I'm a Computer Science undergraduate at <strong>Adani University</strong>, exploring the space between thoughtful frontend experiences, reliable backend systems, and practical AI.</p>
+      <p>As a <strong>Full-Stack Developer Intern at Adani Foundation</strong>, I built <em>SitePulse</em>, a CSR infrastructure-monitoring platform.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Current mission</h3>
+      <ul>
+        <li>Climbing the Web Dev &amp; DevOps web</li>
+        <li>Learning new languages, frameworks, and tools</li>
+        <li>Building useful projects with a great user experience</li>
+        <li>Gaming enthusiast — especially PvP shooters</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br>
+## 🧰 Issue #02 · The Arsenal
 
-## 🕹️ My Arsenal
+<h3>🧬 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-10141d?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-10141d?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-162a59?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-b3122d?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-b3122d?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-162a59?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-10141d?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-### 🧬 Programming Languages
+<h3>🖥️ Frameworks &amp; libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-10141d?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-10141d?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-162a59?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-b3122d?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-162a59?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-B11313?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-171A1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-1B3F8F?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-E62429?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/HTML5-B11313?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1B3F8F?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/SQL-171A1C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<h3>🤖 AI, data &amp; tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-b3122d?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-b3122d?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/Scikit--learn-162a59?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Git-b3122d?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-10141d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-162a59?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-162a59?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-10141d?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS-10141d?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+</p>
 
-### 🖥️ Frameworks & Libraries
-
-<img src="https://img.shields.io/badge/React-171A1C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-171A1C?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-1B3F8F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FastAPI-E62429?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-1B3F8F?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-### 🤖 AI & ML
-
-<img src="https://img.shields.io/badge/PyTorch-E62429?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Transformers-B11313?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Transformers" /> <img src="https://img.shields.io/badge/Scikit--learn-1B3F8F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/LLMs-171A1C?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs (Vercel AI, Workers AI, Groq)" />
-
-### 🧰 Tools & Platforms
-
-<img src="https://img.shields.io/badge/Git-E62429?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-171A1C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Docker-1B3F8F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/PostgreSQL-1B3F8F?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Neon-B11313?style=for-the-badge&logo=neon&logoColor=white" alt="Neon" /> <img src="https://img.shields.io/badge/Supabase-171A1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" /> <img src="https://img.shields.io/badge/Prisma-1B3F8F?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Drizzle%20ORM-171A1C?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle ORM" /> <img src="https://img.shields.io/badge/VS%20Code-B11313?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-
-<br>
-
-## 📬 Web-Shoot a Message
+## 📡 Issue #03 · Open a Web-Shoot
 
 <div align="center">
 
-<a href="https://github.com/Gimbler778">
-  <img src="https://img.shields.io/badge/GitHub-171A1C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://discord.com/channels/@me/1287053312772018198">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="mailto:adityask0405@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E62429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/aditya-kushwaha-886283289/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/direct/inbox/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<a href="https://github.com/Gimbler778"><img src="https://img.shields.io/badge/GitHub-10141d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://discord.com/channels/@me/1287053312772018198"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="mailto:adityask0405@gmail.com"><img src="https://img.shields.io/badge/Email-E62429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/aditya-kushwaha-886283289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/direct/inbox/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br><br>
+
+<strong>Thanks for stopping by, true believer! 🕷️</strong><br>
+<sub>Web-swing by anytime.</sub>
 
 </div>
 
 <br>
 
 <div align="center">
-
-**Thanks for stopping by, true believer!** — Web-swing by anytime. 😄🕷️
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e62429,50:b3122d,100:0b1020" width="100%" alt="Spider-Man themed footer" />
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1B3F8F,100:E62429" width="100%" />
