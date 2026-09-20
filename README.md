@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="images.jpg" width="180" alt="Spider-Man" />
+      <img src="images.jpg" width="220" alt="Spider-Man" />
     </td>
     <td align="center" valign="middle">
       <h1>🕷️ Aditya Singh Kushwaha</h1>
@@ -14,7 +14,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=520&lines=Building+for+the+web+%E2%9A%A1;Frontend+%2B+Backend+Explorer;DevOps+%26+Cloud+in+the+making;Let's+connect!+%F0%9F%95%B8" alt="Typing SVG" />
     </td>
     <td align="center" valign="middle">
-      <img src="images1.jpg" width="130" alt="Spider-Man" />
+      <img src="images1.jpg" width="160" alt="Spider-Man" />
     </td>
   </tr>
 </table>
