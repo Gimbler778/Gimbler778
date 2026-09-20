@@ -4,7 +4,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle">
+    <td align="center" valign="middle" style="padding-right: 18px;">
       <img src="images.jpg" width="220" alt="Spider-Man" />
     </td>
     <td align="center" valign="middle">
